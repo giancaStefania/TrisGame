@@ -1,0 +1,27 @@
+﻿<Window x:Class="PrimoEsempioWPF.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:sys="clr-namespace:System;assembly=mscorlib"
+        xmlns:local="clr-namespace:PrimoEsempioWPF"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800">
+    <Window.Resources>
+        <sys:String x:Key="scrittaGiocatore">Turno di:</sys:String>
+    </Window.Resources>
+
+    <Grid>
+        <Button Name="A1" Click="cambiaCella" Width="50" Height="50"  Background="LightBlue" Margin="299,155,443,214"  />
+        <Button Name="A2" Click="cambiaCella" Width="50" Height="50"  Background="LightBlue" RenderTransformOrigin="4.491,0.407" Margin="354,155,388,214"  />
+        <Button Name="A3" Click="cambiaCella" Width="50" Height="50"  Background="LightBlue" Margin="409,155,333,214"  />
+        <Button Name="B1" Click="cambiaCella" Width="50" Height="50"  Background="LightBlue" Margin="299,210,443,159"/>
+        <Button Name="B2" Click="cambiaCella" Width="50" Height="50"  Background="LightBlue" Margin="354,210,388,159"  />
+        <Button Name="B3" Click="cambiaCella" Width="50" Height="50" Background="LightBlue" Margin="409,209,333,160"  />
+        <Button Name="C1" Click="cambiaCella" Width="50" Height="50"  Background="LightBlue" Margin="299,264,443,105"  />
+        <Button Name="C2" Click="cambiaCella" Width="50" Height="50"  Background="LightBlue" Margin="354,264,388,105"  />
+        <Button Name="C3" Click="cambiaCella" Width="50" Height="50"  Background="LightBlue" Margin="409,264,333,105"  />
+        <TextBlock Text="{DynamicResource scrittaGiocatore}" FontSize="33" TextAlignment="Center" Padding="30" Margin="34,0,56,292" Width="702"></TextBlock>
+        <!--<Button Click="cambiaCella" Width="30" Height="20">PROVA</Button>-->
+    </Grid>
+</Window>

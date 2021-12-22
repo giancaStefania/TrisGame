@@ -1,0 +1,15 @@
+C:\Users\software\source\repos\PrimoEsempioWPF\PrimoEsempioWPF\bin\Debug\PrimoEsempioWPF.exe.config
+C:\Users\software\source\repos\PrimoEsempioWPF\PrimoEsempioWPF\bin\Debug\PrimoEsempioWPF.exe
+C:\Users\software\source\repos\PrimoEsempioWPF\PrimoEsempioWPF\bin\Debug\PrimoEsempioWPF.pdb
+C:\Users\software\source\repos\PrimoEsempioWPF\PrimoEsempioWPF\obj\Debug\PrimoEsempioWPF.csproj.AssemblyReference.cache
+C:\Users\software\source\repos\PrimoEsempioWPF\PrimoEsempioWPF\obj\Debug\MainWindow.g.cs
+C:\Users\software\source\repos\PrimoEsempioWPF\PrimoEsempioWPF\obj\Debug\App.g.cs
+C:\Users\software\source\repos\PrimoEsempioWPF\PrimoEsempioWPF\obj\Debug\PrimoEsempioWPF_MarkupCompile.cache
+C:\Users\software\source\repos\PrimoEsempioWPF\PrimoEsempioWPF\obj\Debug\PrimoEsempioWPF_MarkupCompile.lref
+C:\Users\software\source\repos\PrimoEsempioWPF\PrimoEsempioWPF\obj\Debug\MainWindow.baml
+C:\Users\software\source\repos\PrimoEsempioWPF\PrimoEsempioWPF\obj\Debug\PrimoEsempioWPF.g.resources
+C:\Users\software\source\repos\PrimoEsempioWPF\PrimoEsempioWPF\obj\Debug\PrimoEsempioWPF.Properties.Resources.resources
+C:\Users\software\source\repos\PrimoEsempioWPF\PrimoEsempioWPF\obj\Debug\PrimoEsempioWPF.csproj.GenerateResource.cache
+C:\Users\software\source\repos\PrimoEsempioWPF\PrimoEsempioWPF\obj\Debug\PrimoEsempioWPF.csproj.CoreCompileInputs.cache
+C:\Users\software\source\repos\PrimoEsempioWPF\PrimoEsempioWPF\obj\Debug\PrimoEsempioWPF.exe
+C:\Users\software\source\repos\PrimoEsempioWPF\PrimoEsempioWPF\obj\Debug\PrimoEsempioWPF.pdb
